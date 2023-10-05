@@ -9,5 +9,4 @@
 7. Data Analysis with Python
 8. Data Visualization with Python
 9. Machine Learning with Python
-11. this is test merge conflict
-12. efg
+10. Applied Data Science Capstone
